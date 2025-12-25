@@ -1,0 +1,11 @@
+{
+  "music": [
+    {
+      "title": "Pero Llegaste Tú",
+      "artist": "Lalo Rodríguez",
+      "image": "https://cdn-icons-png.flaticon.com/512/461/461238.png", 
+      "source": "https://raw.githubusercontent.com/zamso3000/servidor-musica/main/pero%20llegastes%20tu%20-%20lalo%20rodriguez.mp3",
+      "duration": 300
+    }
+  ]
+}
