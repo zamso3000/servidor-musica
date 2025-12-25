@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32013662516",
+    "project_id": "spotify-z-3bc1a",
+    "storage_bucket": "spotify-z-3bc1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32013662516:android:6b2c8e438e4261b18acd61",
+        "android_client_info": {
+          "package_name": "com.zamso3000.spotify_z"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA20wm3iqLFZ62iY17ohNjtrAa-3K0HDaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
